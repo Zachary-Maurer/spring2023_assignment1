@@ -17,4 +17,6 @@ id      int auto_increment primary key
 ,email varchar(30)
 
 ,phone varchar(12)
+
+,status CHAR(1)
 );
